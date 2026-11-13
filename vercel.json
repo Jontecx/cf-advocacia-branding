@@ -1,0 +1,61 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Apresentacao/apresentacao.html"
+    },
+    {
+      "source": "/apresentacao",
+      "destination": "/Apresentacao/apresentacao.html"
+    },
+    {
+      "source": "/site-a",
+      "destination": "/Conceito_A_Heritage/site/index.html"
+    },
+    {
+      "source": "/site-b",
+      "destination": "/Conceito_B_Brasao/site/index.html"
+    },
+    {
+      "source": "/site-c",
+      "destination": "/Conceito_C_Editorial/site/index.html"
+    },
+    {
+      "source": "/manual-a",
+      "destination": "/Conceito_A_Heritage/manual.html"
+    },
+    {
+      "source": "/manual-b",
+      "destination": "/Conceito_B_Brasao/manual.html"
+    },
+    {
+      "source": "/manual-c",
+      "destination": "/Conceito_C_Editorial/manual.html"
+    },
+    {
+      "source": "/papelaria-a",
+      "destination": "/Conceito_A_Heritage/papelaria.html"
+    },
+    {
+      "source": "/papelaria-b",
+      "destination": "/Conceito_B_Brasao/papelaria.html"
+    },
+    {
+      "source": "/papelaria-c",
+      "destination": "/Conceito_C_Editorial/papelaria.html"
+    },
+    {
+      "source": "/social-a",
+      "destination": "/Conceito_A_Heritage/social.html"
+    },
+    {
+      "source": "/social-b",
+      "destination": "/Conceito_B_Brasao/social.html"
+    },
+    {
+      "source": "/social-c",
+      "destination": "/Conceito_C_Editorial/social.html"
+    }
+  ]
+}
